@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\bin\Debug\net10.0\MyProgramm2.exe
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\bin\Debug\net10.0\MyProgramm2.deps.json
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\bin\Debug\net10.0\MyProgramm2.runtimeconfig.json
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\bin\Debug\net10.0\MyProgramm2.dll
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\bin\Debug\net10.0\MyProgramm2.pdb
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.AssemblyInfo.cs
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.dll
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\refint\MyProgramm2.dll
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.pdb
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\MyProgramm2.genruntimeconfig.cache
+C:\Users\User\Desktop\Course 3\DesignSoft\lab4\obj\Debug\net10.0\ref\MyProgramm2.dll

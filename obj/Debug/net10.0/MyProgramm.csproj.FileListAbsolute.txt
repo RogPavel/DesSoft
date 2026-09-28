@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Course 3\DesignSoft\obj\Debug\net10.0\MyProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Course 3\DesignSoft\obj\Debug\net10.0\MyProgramm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Course 3\DesignSoft\obj\Debug\net10.0\MyProgramm.AssemblyInfo.cs
+C:\Users\User\Desktop\Course 3\DesignSoft\obj\Debug\net10.0\MyProgramm.csproj.CoreCompileInputs.cache
